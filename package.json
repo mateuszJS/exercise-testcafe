@@ -1,0 +1,14 @@
+{
+  "name": "mytest",
+  "version": "1.0.0",
+  "description": "My first test e2e.",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome -e index.js"
+  },
+  "author": "Pagepro",
+  "license": "ISC",
+  "devDependencies": {
+    "testcafe": "^0.22.0"
+  }
+}
