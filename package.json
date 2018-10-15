@@ -6,7 +6,7 @@
   "scripts": {
     "test": "testcafe chrome -e index.js"
   },
-  "author": "Pagepro",
+  "author": "mateuszJS",
   "license": "ISC",
   "devDependencies": {
     "testcafe": "^0.22.0"
